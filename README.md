@@ -5,9 +5,9 @@
 The purpose of this analysis was to build a machine learning model to predict loan statuses based on various financial information. The dataset used for this analysis contained features such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The goal was to predict whether a loan is healthy (0) or high-risk (1) based on these features.
 
 ### Results of Model 1
-Balanced Accuracy Score: 0.952
-Precision (high-risk loan): 0.85
-Recall (high-risk loan): 0.91
+- Balanced Accuracy Score: 0.952
+- Precision (high-risk loan): 0.85
+- Recall (high-risk loan): 0.91
 ### Description of Model 1
 Model 1 utilized logistic regression on the original imbalanced data. Logistic regression is a commonly used classification algorithm that works well for binary classification tasks.
 
